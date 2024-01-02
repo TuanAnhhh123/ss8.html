@@ -1,0 +1,26 @@
+/* reset CSS */
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    box-sizing: border-box;
+    padding-bottom: 10px;
+}
+.post-container{
+    width: 400px;
+    border: 2px solid black;
+    
+}
+.post-container img{
+    width: 100%;
+}
+.post-container h2{
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+.post-container a{
+    margin-top: 20px;
+    margin-left: 40px;
+    
+}
